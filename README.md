@@ -1,6 +1,6 @@
 # Dev Team Six — Portfolio Intelligence & Audit Infrastructure
 
-> Part of <a href="https://thepennylaneproject.org">The Penny Lane Project</a> — technology that serves the individual.
+> Part of [The Penny Lane Project](https://thepennylaneproject.org) — technology that serves the individual.
 
 ## What This Is
 
@@ -13,7 +13,7 @@ This repository is the central intelligence and quality-assurance hub for The Pe
 ## The 11 Applications
 
 | Application | Domain | Stack |
-|---|---|---|
+|:---|:---|:---|
 | **Advocera** | Legal-tech | Python / SQLite |
 | **Codra** | AI-powered development platform | TypeScript / React / Netlify Functions |
 | **FounderOS** | Founder productivity suite | Next.js 14 App Router |
